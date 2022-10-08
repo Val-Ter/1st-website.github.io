@@ -1,0 +1,42 @@
+h1 {
+    padding-left: 100px;
+}
+
+h2 {
+    padding-left: 150px;
+    color: steelblue;
+}
+
+p {
+    padding-left: 150px;
+}
+
+ol, ul {
+    padding-left: 170px;
+}
+
+.image {
+    width: 550px;
+    padding-left: 150px;
+}
+
+td, tr {
+    border: 1px solid #000;
+    padding: 7px;
+}
+
+.info {
+    margin-left: 150px;
+    margin-bottom: 500px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.return {
+    width: 14px;
+    padding-top: 5px;
+}
+
+.up {
+    border: #fff;
+}
